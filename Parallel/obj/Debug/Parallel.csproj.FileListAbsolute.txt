@@ -1,0 +1,10 @@
+C:\Users\vlad9\source\repos\Parallel\Parallel\bin\Debug\Parallel.exe.config
+C:\Users\vlad9\source\repos\Parallel\Parallel\bin\Debug\Parallel.exe
+C:\Users\vlad9\source\repos\Parallel\Parallel\bin\Debug\Parallel.pdb
+C:\Users\vlad9\source\repos\Parallel\Parallel\obj\Debug\Parallel.csprojAssemblyReference.cache
+C:\Users\vlad9\source\repos\Parallel\Parallel\obj\Debug\Parallel.Form1.resources
+C:\Users\vlad9\source\repos\Parallel\Parallel\obj\Debug\Parallel.Properties.Resources.resources
+C:\Users\vlad9\source\repos\Parallel\Parallel\obj\Debug\Parallel.csproj.GenerateResource.cache
+C:\Users\vlad9\source\repos\Parallel\Parallel\obj\Debug\Parallel.csproj.CoreCompileInputs.cache
+C:\Users\vlad9\source\repos\Parallel\Parallel\obj\Debug\Parallel.exe
+C:\Users\vlad9\source\repos\Parallel\Parallel\obj\Debug\Parallel.pdb
